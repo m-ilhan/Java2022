@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="ProductManager"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="DortIslem"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Person"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="Customer"/>
+    <fullyQualifiedTypeName name="PersonManager"/>
+    <fullyQualifiedTypeName name="EmployeeManager"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="KrediUI"/>
+    <fullyQualifiedTypeName name="OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="TarimKrediManager"/>
+    <fullyQualifiedTypeName name="BaseKrediManager"/>
+    <fullyQualifiedTypeName name="AskerKrediManager"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,21 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Product product = new Product();
+		product.set_name("Laptop");
+		product.setId(1);
+		product.get_description();
+		product.get_price();
+		product.get_stockAmount();
+		product.getId();
+
+		
+		
+		ProductManager productManager = new ProductManager();
+		productManager.Add(product);
+
+	}
+
+}
